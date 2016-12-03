@@ -1,0 +1,2 @@
+# vidSum
+Video summuarization
